@@ -6,10 +6,32 @@
     color : red;
 }
 
-p {
-    color : red;
+.leipateksti {
+    color: #555;
+    text-align: justify;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 1em 1em;
+    margin: 0 auto;
+    max-width: 50em;
 }
 
-li {
-    color : rgb(215, 89, 240);
+.otsikko {
+    color: #333;
+    text-align: justify;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 1em 1em;
+    margin: 0 auto;
+    max-width: 50em;
+}
+
+div {
+    color: #333;
+    text-align: justify;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 1em 1em;
+    margin: 0 auto;
+    max-width: 50em;
 }
