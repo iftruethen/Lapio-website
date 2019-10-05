@@ -4,7 +4,14 @@
     background-color: red;
     position: absolute;
     left: 10px;
-    
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blue;
+    padding-top: 50px;
+    border-width: 10px;
+    border-color: green;
+    border-style: solid;
 }
 
 .yellowbox {
@@ -13,6 +20,14 @@
     background-color: yellow;
     position: absolute;
     left: 250px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blue;
+    padding-top: 50px;
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
 }
 
 .greenbox {
@@ -21,4 +36,12 @@
     background-color: green;
     position: absolute;
     left: 490px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blue;
+    padding-top: 50px;
+    border-width: 10px;
+    border-color: yellow;
+    border-style: solid;
 }
